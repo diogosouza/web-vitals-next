@@ -4,7 +4,7 @@ var http = require('http');
 const appsignal = new Appsignal({
   active: true,
   name: "web-vitals-nextjs",
-  apiKey: "55213c3c-45fb-459e-a7ed-17a9c4869ca0",
+  apiKey: "35493d93-5988-4294-b96c-c494246803f9",
 });
 
 const {
